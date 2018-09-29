@@ -1,0 +1,229 @@
+#EXTM3U 
+
+                                        
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x5jNF2N.png" group-title="Deportes", MLB 
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/MA9c6WG.png" group-title="Deportes", Pac-12 Arizona | FHD
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/MA9c6WG.png" group-title="Deportes", Pac-12 Bay Area | FHD
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/MA9c6WG.png" group-title="Deportes", Pac-12 Los Angeles | FHD
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/MA9c6WG.png" group-title="Deportes", Pac-12 Mountain | FHD
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/MA9c6WG.png" group-title="Deportes", Pac-12 Oregon | FHD
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/MA9c6WG.png" group-title="Deportes", Pac-12 Washington | FHD
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+http://tvpremiumhd.club/lista-gratuita/221424/tv/v/2382.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/djeM9yx.png" group-title="SPORTS",Flow Sports (UK)
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Racing.jpg.png" group-title="SPORTS",Fox Sports Racing (USA)
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5812b0f2237a6ff45d16c3f9/featuredImage.jpg" group-title="SPORTS",Fight (USA)
+http://stitcher.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Impact_Wrestling_Logo.svg/800px-Impact_Wrestling_Logo.svg.png" group-title="SPORTS",Impact Wrestling (USA)
+http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5417a212ff9fba68282fbf5e/featuredImage.jpg" group-title="SPORTS",Glory Kickboxing (USA)
+http://stitcher.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+http://195.154.255.148:25461/live/skytv12/skyline/1350.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD" tvg-logo="" group-title="",beIN SPORTS HD
+http://195.154.255.148:25461/live/skytv12/skyline/1351.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIn Sports LaLiga" tvg-logo="" group-title="",BeIn Sports LaLiga
+http://195.154.255.148:25461/live/skytv12/skyline/1352.ts#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORT COLOMBIA HD" tvg-logo="" group-title="LATINOS HD",CLARO SPORT COLOMBIA HD
+http://195.154.255.148:25461/live/skytv12/skyline/1010.ts
+#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORT HD" tvg-logo="" group-title="LATINOS HD",CLARO SPORT HD
+http://195.154.255.148:25461/live/skytv12/skyline/985.ts
+#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS LATAM HD" tvg-logo="" group-title="LATINOS HD",CLARO SPORTS LATAM HD
+http://195.154.255.148:25461/live/skytv12/skyline/909.ts
+#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS LATAM SD" tvg-logo="" group-title="LATINOS SD",CLARO SPORTS LATAM SD
+http://195.154.255.148:25461/live/skytv12/skyline/1046.ts#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD" tvg-logo="" group-title="LATINOS HD",ESPN 4 HD
+http://195.154.255.148:25461/live/skytv12/skyline/1033.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="" group-title="LATINOS HD",ESPN HD
+http://195.154.255.148:25461/live/skytv12/skyline/1034.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS HD" tvg-logo="" group-title="LATINOS HD",ESPN PLUS HD
+http://195.154.255.148:25461/live/skytv12/skyline/1014.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN1_HDUS" tvg-logo="" group-title="",ESPN1_HDUS
+http://195.154.255.148:25461/live/skytv12/skyline/1382.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN2 HD" tvg-logo="" group-title="LATINOS HD",ESPN2 HD
+http://195.154.255.148:25461/live/skytv12/skyline/1022.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN2_HDUS" tvg-logo="" group-title="",ESPN2_HDUS
+http://195.154.255.148:25461/live/skytv12/skyline/1381.ts#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="" group-title="",EUROSPORT 1
+http://195.154.255.148:25461/live/skytv12/skyline/1337.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD" tvg-logo="" group-title="",Eurosport 1 HD
+http://195.154.255.148:25461/live/skytv12/skyline/1336.ts#EXTINF:-1 tvg-id="" tvg-name="LaLiga 1|2|3" tvg-logo="" group-title="",LaLiga 1|2|3
+http://195.154.255.148:25461/live/skytv12/skyline/1331.ts
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga 1|2|3 HD" tvg-logo="" group-title="",LaLiga 1|2|3 HD
+http://195.154.255.148:25461/live/skytv12/skyline/1330.ts
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga 123 FHD" tvg-logo="" group-title="",LaLiga 123 FHD
+http://195.154.255.148:25461/live/skytv12/skyline/1329.ts
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV" tvg-logo="" group-title="",LaLiga TV
+http://195.154.255.148:25461/live/skytv12/skyline/1354.ts
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV HD" tvg-logo="" group-title="",LaLiga TV HD
+http://195.154.255.148:25461/live/skytv12/skyline/1355.ts#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes 1" tvg-logo="" group-title="",Movistar Deportes 1
+http://195.154.255.148:25461/live/skytv12/skyline/1348.ts
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 1 HD" tvg-logo="" group-title="",MOVISTAR DEPORTES 1 HD
+http://195.154.255.148:25461/live/skytv12/skyline/1344.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes 2 HD" tvg-logo="" group-title="",Movistar Deportes 2 HD
+http://195.154.255.148:25461/live/skytv12/skyline/1343.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Futbol HD" tvg-logo="" group-title="",Movistar Futbol HD
+http://195.154.255.148:25461/live/skytv12/skyline/1346.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Golf" tvg-logo="" group-title="",Movistar Golf
+http://195.154.255.148:25461/live/skytv12/skyline/1345.ts
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR GOLF HD" tvg-logo="" group-title="",MOVISTAR GOLF HD
+http://195.154.255.148:25461/live/skytv12/skyline/1342.ts#EXTINF:-1 tvg-id="" tvg-name="SFRSport1" tvg-logo="" group-title="",SFRSport1
+http://195.154.255.148:25461/live/skytv12/skyline/1341.ts
+#EXTINF:-1 tvg-id="" tvg-name="SFRSport2" tvg-logo="" group-title="",SFRSport2
+http://195.154.255.148:25461/live/skytv12/skyline/1340.ts
+#EXTINF:-1 tvg-id="" tvg-name="SFRSport3" tvg-logo="" group-title="",SFRSport3
+http://195.154.255.148:25461/live/skytv12/skyline/1339.ts
+#EXTINF:-1 tvg-id="" tvg-name="SFRSport5" tvg-logo="" group-title="",SFRSport5
+http://195.154.255.148:25461/live/skytv12/skyline/1338.ts#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1 HD" tvg-logo="" group-title="",Sport TV 1 HD
+http://195.154.255.148:25461/live/skytv12/skyline/1334.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2 HD" tvg-logo="" group-title="",Sport TV 2 HD
+http://195.154.255.148:25461/live/skytv12/skyline/1333.ts#EXTINF:-1 tvg-id="" tvg-name="CBS Sports Network" tvg-logo="" group-title="",CBS Sports Network
+http://195.154.255.148:25461/live/skytv12/skyline/1952.ts#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports" tvg-logo="" group-title="",Eleven Sports
+http://195.154.255.148:25461/live/skytv12/skyline/2011.ts#EXTINF:-1 tvg-id="" tvg-name="FOX Collage Sports Atlantic" tvg-logo="" group-title="",FOX Collage Sports Atlantic
+http://195.154.255.148:25461/live/skytv12/skyline/1948.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Collage Sports Central" tvg-logo="" group-title="",FOX Collage Sports Central
+http://195.154.255.148:25461/live/skytv12/skyline/1947.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Collage Sports Pacific" tvg-logo="" group-title="",FOX Collage Sports Pacific
+http://195.154.255.148:25461/live/skytv12/skyline/1946.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Deportes" tvg-logo="" group-title="",FOX Deportes
+http://195.154.255.148:25461/live/skytv12/skyline/2007.ts#EXTINF:-1 tvg-id="" tvg-name="Fox Soccer Plus" tvg-logo="" group-title="",Fox Soccer Plus
+http://195.154.255.148:25461/live/skytv12/skyline/2005.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports Arizona" tvg-logo="" group-title="",FOX Sports Arizona
+http://195.154.255.148:25461/live/skytv12/skyline/1954.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports Arizona 2" tvg-logo="" group-title="",FOX Sports Arizona 2
+http://195.154.255.148:25461/live/skytv12/skyline/2049.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports Carolinas" tvg-logo="" group-title="",FOX Sports Carolinas
+http://195.154.255.148:25461/live/skytv12/skyline/2048.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports Detroit" tvg-logo="" group-title="",FOX Sports Detroit
+http://195.154.255.148:25461/live/skytv12/skyline/1945.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports Florida" tvg-logo="" group-title="",FOX Sports Florida
+http://195.154.255.148:25461/live/skytv12/skyline/1944.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports Midwest" tvg-logo="" group-title="",FOX Sports Midwest
+http://195.154.255.148:25461/live/skytv12/skyline/2047.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports New Orleans" tvg-logo="" group-title="",FOX Sports New Orleans
+http://195.154.255.148:25461/live/skytv12/skyline/2046.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports North" tvg-logo="" group-title="",FOX Sports North
+http://195.154.255.148:25461/live/skytv12/skyline/2045.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports North Plus" tvg-logo="" group-title="",FOX Sports North Plus
+http://195.154.255.148:25461/live/skytv12/skyline/2044.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports Ohio" tvg-logo="" group-title="",FOX Sports Ohio
+http://195.154.255.148:25461/live/skytv12/skyline/2043.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports Oklahoma" tvg-logo="" group-title="",FOX Sports Oklahoma
+http://195.154.255.148:25461/live/skytv12/skyline/2042.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports San Diego USA" tvg-logo="" group-title="",Fox Sports San Diego USA
+http://195.154.255.148:25461/live/skytv12/skyline/1984.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports Southeast" tvg-logo="" group-title="",FOX Sports Southeast
+http://195.154.255.148:25461/live/skytv12/skyline/2041.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports SouthWest" tvg-logo="" group-title="",FOX Sports SouthWest
+http://195.154.255.148:25461/live/skytv12/skyline/1942.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports SouthWest Plus" tvg-logo="" group-title="",FOX Sports SouthWest Plus
+http://195.154.255.148:25461/live/skytv12/skyline/1941.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports SUN" tvg-logo="" group-title="",FOX Sports SUN
+http://195.154.255.148:25461/live/skytv12/skyline/1940.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports West" tvg-logo="" group-title="",FOX Sports West
+http://195.154.255.148:25461/live/skytv12/skyline/1939.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports West USA" tvg-logo="" group-title="",Fox Sports West USA
+http://195.154.255.148:25461/live/skytv12/skyline/1983.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports Wisconsin" tvg-logo="" group-title="",FOX Sports Wisconsin
+http://195.154.255.148:25461/live/skytv12/skyline/2040.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports Wisconsin Plus" tvg-logo="" group-title="",FOX Sports Wisconsin Plus
+http://195.154.255.148:25461/live/skytv12/skyline/2039.ts#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Bay Area" tvg-logo="" group-title="",NBC Sports Bay Area
+http://195.154.255.148:25461/live/skytv12/skyline/1931.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Boston" tvg-logo="" group-title="",NBC Sports Boston
+http://195.154.255.148:25461/live/skytv12/skyline/1924.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports California" tvg-logo="" group-title="",NBC Sports California
+http://195.154.255.148:25461/live/skytv12/skyline/1930.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Chicago" tvg-logo="" group-title="",NBC Sports Chicago
+http://195.154.255.148:25461/live/skytv12/skyline/1923.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Chicago Plus" tvg-logo="" group-title="",NBC Sports Chicago Plus
+http://195.154.255.148:25461/live/skytv12/skyline/2051.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Northwest" tvg-logo="" group-title="",NBC Sports Northwest
+http://195.154.255.148:25461/live/skytv12/skyline/1922.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Philadelphia" tvg-logo="" group-title="",NBC Sports Philadelphia
+http://195.154.255.148:25461/live/skytv12/skyline/1921.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Washington" tvg-logo="" group-title="",NBC Sports Washington
+http://195.154.255.148:25461/live/skytv12/skyline/1929.ts#EXTINF:-1 tvg-id="" tvg-name="NFL Network" tvg-logo="" group-title="",NFL Network
+http://195.154.255.148:25461/live/skytv12/skyline/1968.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL: Red Zone" tvg-logo="" group-title="",NFL: Red Zone
+http://195.154.255.148:25461/live/skytv12/skyline/1959.ts
+#EXTINF:-1 tvg-id="" tvg-name="Olympic Channel USA" tvg-logo="" group-title="",Olympic Channel USA
+http://195.154.255.148:25461/live/skytv12/skyline/1981.ts#EXTINF:-1 tvg-id="" tvg-name="TyC Sports USA" tvg-logo="" group-title="",TyC Sports USA
+http://195.154.255.148:25461/live/skytv12/skyline/2025.ts#EXTINF:-1 tvg-id="" tvg-name="ESPN3" tvg-logo="" group-title="",ESPN3
+http://195.154.255.148:25461/live/skytv12/skyline/2092.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX NFL" tvg-logo="" group-title="",FOX NFL
+http://195.154.255.148:25461/live/skytv12/skyline/2089.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV US" tvg-logo="" group-title="",GOL TV US
+http://195.154.255.148:25461/live/skytv12/skyline/2094.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX SD" tvg-logo="" group-title="",MAX SD
+http://195.154.255.148:25461/live/skytv12/skyline/2061.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TDN DEPORTES" tvg-logo="" group-title="",TDN DEPORTES
+http://195.154.255.148:25461/live/skytv12/skyline/2110.ts
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION TDN" tvg-logo="" group-title="",UNIVISION TDN
+http://195.154.255.148:25461/live/skytv12/skyline/2109.ts
+http://195.154.255.148:25461/live/skytv12/skyline/2111.ts#EXTINF:-1 tvg-id="" tvg-name="M.MOTO GP" tvg-logo="" group-title="",M.MOTO GP
+http://195.154.255.148:25461/live/skytv12/skyline/1325.ts#EXTINF:-1,Super Sport Kosova 1 HD
+http://1:7bc3d@164.132.168.68:9687/ssks1
+#EXTINF:-1,Super Sport Kosova 2 HD
+http://1:7bc3d@164.132.168.68:9687/ssks2
+#EXTINF:-1,Super Sport 1 HD
+http://1:7bc3d@164.132.168.68:9687/ss1
+#EXTINF:-1,Super Sport 2 HD
+http://1:7bc3d@164.132.168.68:9687/ss2
+#EXTINF:-1,Super Sport 3 HD
+http://1:7bc3d@164.132.168.68:9687/ss3
+#EXTINF:-1,Super Sport 4 HD
+http://1:7bc3d@164.132.168.68:9687/ss4#EXTINF:-1,Tring Sport 3 HD
+http://1:7bc3d@164.132.162.91:9687/tringsport3
+#EXTINF:-1,Tring Sport 4 HD
+http://1:7bc3d@164.132.162.91:9687/tringsport4
+#EXTINF:-1,Tring Sport 1 HD
+http://1:7bc3d@164.132.162.91:9687/tringsport1
+#EXTINF:-1,Tring Smile
+http://1:7bc3d@164.132.162.91:9687/smile
+#EXTINF:-1,Tring Sport 2 HD#EXTINF:-1,Sky Bundesliga
+http://tv.smartal.net:25461/live/ZmstvChS9R/iHJVUDJ0Px/409.ts
+#EXTINF:-1,Sky Sport 5 UK
+http://tv.smartal.net:25461/live/ZmstvChS9R/iHJVUDJ0Px/360.ts
+#EXTINF:-1,Sky Sport 4 UK
+http://tv.smartal.net:25461/live/ZmstvChS9R/iHJVUDJ0Px/359.ts
+#EXTINF:-1,Sky Sport 3 UK
+http://tv.smartal.net:25461/live/ZmstvChS9R/iHJVUDJ0Px/358.ts
+#EXTINF:-1,Sky Sport 2 UK
+http://tv.smartal.net:25461/live/ZmstvChS9R/iHJVUDJ0Px/357.ts
+#EXTINF:-1,Sky Sport 1 UK
+http://tv.smartal.net:25461/live/ZmstvChS9R/iHJVUDJ0Px/356.ts
+#EXTINF:-1,Sky Sport F1 UK
+http://tv.smartal.net:25461/live/ZmstvChS9R/iHJVUDJ0Px/355.ts#EXTINF:-1,Arena 1 HR
+http://1:7bc3d@164.132.168.68:9687/Arena1HR
+#EXTINF:-1,Arena 2 HR
+http://1:7bc3d@164.132.168.68:9687/Arena2HR
+#EXTINF:-1,Arena 3 HR
+http://1:7bc3d@164.132.162.91:9687/Arena3HR
+#EXTINF:-1,Arena 4 HR
+http://1:7bc3d@164.132.162.91:9687/Arena4HR
+#EXTINF:-1,Arena Sport 1
+http://1:7bc3d@164.132.162.91:9687/ArenaSport1
+#EXTINF:-1,Arena Sport 2
+http://1:7bc3d@164.132.162.91:9687/ArenaSport2
+#EXTINF:-1,Arena Sport 3
+http://1:7bc3d@164.132.168.68:9687/ArenaSport3
+#EXTINF:-1,Arena Sport 4
+http://1:7bc3d@164.132.168.68:9687/ArenaSport4
+#EXTINF:-1,Arena Sport 5
+http://1:7bc3d@164.132.168.68:9687/ArenaSport5
+#EXTINF:-1,Sport Klub 1
+http://1:7bc3d@164.132.162.91:9687/SportKlub1
+#EXTINF:-1,Sport Klub 2
+http://1:7bc3d@164.132.168.68:9687/SportKlub2
+#EXTINF:-1,Sport Klub 3
+http://1:7bc3d@164.132.168.68:9687/SportKlub3#EXTINF:-1 tvg-id="" tvg-name="Gol TV" tvg-logo="" group-title="",Gol TV
+http://195.154.255.148:25461/live/skytv12/skyline/1998.ts#EXTINF:-1 tvg-id="" tvg-name="FS1" tvg-logo="" group-title="",FS1
+http://195.154.255.148:25461/live/skytv12/skyline/2004.ts
+#EXTINF:-1 tvg-id="" tvg-name="FS2" tvg-logo="" group-title="",FS2
+http://195.154.255.148:25461/live/skytv12/skyline/2003.ts#EXTINF:-1 tvg-id="" tvg-name="Toros TV" tvg-logo="" group-title="",Toros TV
+http://195.154.255.148:25461/live/skytv12/skyline/1323.ts
+#EXTINF:-1 tvg-id="" tvg-name="Toros TV HD ES" tvg-logo="" group-title="",Toros TV HD ES
+http://195.154.255.148:25461/live/skytv12/skyline/1324.ts#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA" tvg-logo="" group-title="",CAZA Y PESCA
+http://195.154.255.148:25461/live/skytv12/skyline/1243.ts
